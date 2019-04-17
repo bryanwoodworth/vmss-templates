@@ -1,1 +1,1 @@
-# vmss-templates
+# vmss-templates for testing
